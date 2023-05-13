@@ -1,0 +1,140 @@
+using System.Data;
+using System.Diagnostics;
+
+namespace binaryOperators
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //binary operators
+            int x = 10;
+            int y = 20;
+
+            Console.WriteLine($"x+y= {x + y}"); //addition
+            Console.WriteLine($"x-y= {x - y}"); //subtraction
+            Console.WriteLine($"x* y= {x * y}"); //multiplication
+            Console.WriteLine($"x / y = {x/y}");  //divition
+
+            //binary mudulos
+            Console.WriteLine(y % x);
+
+            //operators precedance : periority to acheive
+            /* 
+             * Multiplication ‘ *’
+              Division ‘ / ’
+              Modulus ‘ %’
+              Addition ‘ +’
+              Subtraction ‘ -’
+             * */
+
+            Console.WriteLine(4/67 +2 *4);
+
+            //switch
+            Console.WriteLine("please enter number from 1 to 10 to check if the number even or odd");
+            int num= Convert.ToInt32( Console.ReadLine() );
+
+            switch(num)
+            {
+                case 2:
+                case 4:
+                case 6:
+                case 8:
+                case 10:
+                    Console.WriteLine($"the number {num} is even"); //if user enter any of these number in these cases it will give output as even
+                    break;
+
+                case 1:
+                case 3:
+                case 5:
+                case 7:
+                case 9:
+                    Console.WriteLine($"the number {num} is odd");
+                    break;
+            }
+
+            // check the error 
+            int cardNo = 13;
+            string cardName = cardNo switch //the value stored in cardName
+            {
+                1 => "Ace",
+                13 => "King",
+                12 => "Queen",
+                10 => "Jack",
+                _ => cardNo
+            };
+
+
+            //iteraition : it is a process of repeatedly executing a block of code or statement a certin number of times
+            // while loop
+            int i = 5;
+            while ( i < 15 ) //if the condition is true the loop it will execuit until the condition will be false
+            {
+                Console.WriteLine(i);
+                i++; //it will print i a several of times and each time will add one to i until i value will be 15                i++;
+            }
+
+            //do while
+            do
+            {
+                Console.WriteLine(i);
+                i++;
+
+            } while ( i < 15 ); //it will print the value first then will check the condition
+
+            //for loop
+            for (i=5; i < 15; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            //foreach
+            /*
+             foreach (var element in collection){
+                    code to excute for each element
+                 }
+             */
+
+            string[] Names = { "Ahmed", "Mohammed", "Noor" };
+            foreach (string name in Names)
+            {
+                Console.WriteLine(name);
+            }
+
+            //jump statement
+            //beak
+            for (int j=0; j< 15; j++)
+            { 
+                if(j == 5) 
+                   break; //when condition comes true it will exit the program
+                  Console.WriteLine(j);
+                
+
+            }
+
+            //continue
+            int g = 0;
+            while (g < 15)
+            {
+                if (g == 6)
+               
+                    continue; //when g = 6 the program will not print it and it will continue to the next value
+                    Console.WriteLine(g);
+                    g++;
+                
+            }
+
+            //goto
+            int p = 0;
+            Start:
+                Console.WriteLine(p);
+                p++;
+            if (p < 15)
+                goto Start; //when the condition comes true it will gump to start
+
+
+
+
+        }
+    }
+}
