@@ -1,0 +1,27 @@
+namespace ArrayMethode
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //array methode
+            int[] arr = { 1, 26, 73, 8, 22, 3, 9, 13 };
+            Array.Sort(arr); //to sort the element inside the array
+             foreach (int i in arr)
+            {
+                Console.WriteLine(i);
+
+            }
+
+             Array.Reverse(arr); //sort element in reverse order
+            foreach(int i in arr)
+            {
+                Console.WriteLine(i);
+            }
+
+            int index= Array.IndexOf(arr, 8); //search for element in first place it will find it will break and if it will not exite it will return -1
+            Console.WriteLine(index);
+
+        }
+    }
+}
