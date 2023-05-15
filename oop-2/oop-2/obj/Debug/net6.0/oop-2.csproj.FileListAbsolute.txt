@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\oop-2\oop-2\bin\Debug\net6.0\oop-2.exe
+C:\Users\Training\source\repos\oop-2\oop-2\bin\Debug\net6.0\oop-2.deps.json
+C:\Users\Training\source\repos\oop-2\oop-2\bin\Debug\net6.0\oop-2.runtimeconfig.json
+C:\Users\Training\source\repos\oop-2\oop-2\bin\Debug\net6.0\oop-2.dll
+C:\Users\Training\source\repos\oop-2\oop-2\bin\Debug\net6.0\oop-2.pdb
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.AssemblyInfo.cs
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.dll
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\refint\oop-2.dll
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.pdb
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\oop-2.genruntimeconfig.cache
+C:\Users\Training\source\repos\oop-2\oop-2\obj\Debug\net6.0\ref\oop-2.dll
