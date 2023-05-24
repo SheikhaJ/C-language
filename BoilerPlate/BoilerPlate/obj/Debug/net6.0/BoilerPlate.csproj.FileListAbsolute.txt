@@ -1,0 +1,15 @@
+E:\BoilerPlate\BoilerPlate\bin\Debug\net6.0\BoilerPlate.exe
+E:\BoilerPlate\BoilerPlate\bin\Debug\net6.0\BoilerPlate.deps.json
+E:\BoilerPlate\BoilerPlate\bin\Debug\net6.0\BoilerPlate.runtimeconfig.json
+E:\BoilerPlate\BoilerPlate\bin\Debug\net6.0\BoilerPlate.dll
+E:\BoilerPlate\BoilerPlate\bin\Debug\net6.0\BoilerPlate.pdb
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.csproj.AssemblyReference.cache
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.GeneratedMSBuildEditorConfig.editorconfig
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.AssemblyInfoInputs.cache
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.AssemblyInfo.cs
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.csproj.CoreCompileInputs.cache
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.dll
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\refint\BoilerPlate.dll
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.pdb
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\BoilerPlate.genruntimeconfig.cache
+E:\BoilerPlate\BoilerPlate\obj\Debug\net6.0\ref\BoilerPlate.dll
